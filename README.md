@@ -1,9 +1,7 @@
 # ModalApp
 To run the application-
 1. Clone the repository
-2. cd server
-3. npm install
-4. npm start
+2. cd server -> npm install -> npm start
 
 The application can be viewed on http://localhost:5000
 
